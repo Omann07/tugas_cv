@@ -113,8 +113,6 @@
           <button type="submit" class="py-3 px-5 text-sm font-medium text-center text-black rounded-lg bg-white sm:w-fit hover:bg-gray-100 focus:ring-4 focus:outline-none focus:ring-gray-300 dark:bg-gray-800 dark:hover:bg-gray-900 dark:text-white dark:focus:ring-gray-700">
     Kirim
 </button>
-
-
       </form>
   </div>
 </section>
